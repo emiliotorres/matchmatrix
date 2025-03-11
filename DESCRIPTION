@@ -1,0 +1,14 @@
+Package: matchmatrix
+Version: 0.0.1
+Title: Matching Matrices
+Authors@R: c(
+  person("Emilio","Torres Manzanera", role=c("aut","cre"), email="torres@uniovi.es"))
+Depends: R (>= 4.1.0)
+Imports: methods
+Description: Matching, merging and indexing matrices using hash tables.
+License: GPL-3
+NeedsCompilation: yes
+Author: Emilio Torres Manzanera [aut, cre]
+Maintainer: Emilio Torres Manzanera <torres@uniovi.es>
+Encoding: UTF-8
+RoxygenNote: 7.3.2
